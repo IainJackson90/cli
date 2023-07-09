@@ -1,4 +1,4 @@
 # My very first website
 
-Welcome! [Code Instetute](https://codeinstetute.net)
+Welcome! [Code Instetute](https://codeinstitute.net)
 
